@@ -10,3 +10,10 @@
 > I'm happy to announce the first release of *verzon*.
 >
 > Keep in mind, that *verzon* is in early stage and updates will follow soon.
+
+### Roadmap
+
+- Stabilize APIs
+- Add tests
+- Write a documentation
+- Create a GitHub Action
